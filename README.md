@@ -22,8 +22,6 @@ Hello, fellow developers! 👋 I'm Sumit Kumar Vishvas, a passionate software en
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sumitvishvas&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sumitvishvas&icon=5&color=0)](https://visitcount.itsvg.in)
