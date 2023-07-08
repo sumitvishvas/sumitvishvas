@@ -29,7 +29,5 @@ Hello, fellow developers! 👋 I'm Sumit Kumar Vishvas, a passionate software en
 [![](https://visitcount.itsvg.in/api?id=sumitvishvas&icon=5&color=0)](https://visitcount.itsvg.in)
 
 
----
-[![](https://visitcount.itsvg.in/api?id=sumitvishvas&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
