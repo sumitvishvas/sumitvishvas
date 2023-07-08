@@ -77,11 +77,7 @@
   <img src="https://streak-stats.demolab.com?user=sumitvishvas&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/sumitvishvas/sumitvishvas/output/snake.svg" alt="Snake animation" />
-
-###
 
 <br clear="both">
 
