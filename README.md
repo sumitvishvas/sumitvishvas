@@ -46,6 +46,9 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
   <img width="12" />
+  <img src="[https://cdn.simpleicons.org/laravel/FF2D20](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftoppng.com%2Ffree-image%2Freact-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-PNG-free-PNG-Images_163076&psig=AOvVaw11uqbFfOU1lpNVamQ4M5st&ust=1696697114848000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjCmbjv4YEDFQAAAAAdAAAAABAE)" height="40" alt="laravel logo"  />
+  <img width="12" />
+  
   <img src="https://cdn.simpleicons.org/codeigniter/EF4223" height="40" alt="codeigniter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
